@@ -1,4 +1,5 @@
 ﻿#include "lenet.h"
+#include "lenet.c"
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
